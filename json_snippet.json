@@ -1,0 +1,45 @@
+[
+    {
+        "platform": {
+            "id": 4,
+            "name": "Instacart",
+            "retailers": [
+                {
+                    "id": 4,
+                    "name": "Instacart",
+                    "portfolios": [
+                        {
+                            "id": 4,
+                            "name": "PORTFOLIO_Instacart",
+                            "campaigns": [
+                                {
+                                    "id": 181,
+                                    "name": "draft",
+
+
+                                    "adGroups": [
+                                        {
+                                            "id": 3960,
+                                            "name": "CB and BB32oz - FYF",
+                                            "tactic": {
+                                                "id": 1,
+                                                "name": "Display: Onsite"
+                                            },
+                                            "targeting": [
+                                                {
+                                                    "id": 544930,
+                                                    "name": "chicken bouillon",
+                                                    "type": "keyword"
+                                                },
+                                                {
+                                                    "id": 548189,
+                                                    "name": "organic bone broth",
+                                                    "type": "keyword"
+                                                },
+                                                {
+                                                    "id": 581710,
+                                                    "name": "chicken broth family pack",
+                                                    "type": "keyword"
+                                                }]}]}]}]}]}}]
+
+
